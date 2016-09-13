@@ -6,9 +6,7 @@
     "require": {
         "php": ">=5.4.16",
         "cakephp/cakephp": "~3.0",
-        "cakephp/plugin-installer": "*",
-        "zendframework/zendservice-google-gcm": "dev-master",
-        "zendframework/zendservice-apple-apns": "^1.2"
+        "cakephp/plugin-installer": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
